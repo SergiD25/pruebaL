@@ -53,8 +53,8 @@
   },
   "origin": 7,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Idle",
+    "path": "folders/Sprites/Idle.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

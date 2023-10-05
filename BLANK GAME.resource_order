@@ -15,10 +15,11 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Idle","order":4,"path":"folders/Sprites/Idle.yy",},
+    {"name":"Walk","order":5,"path":"folders/Sprites/Walk.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Run2Ch1","order":2,"path":"sprites/Run2Ch1/Run2Ch1.yy",},
-    {"name":"RunCh1","order":3,"path":"sprites/RunCh1/RunCh1.yy",},
-    {"name":"Idle2Ch1","order":1,"path":"sprites/Idle2Ch1/Idle2Ch1.yy",},
+    {"name":"IdleCh1","order":1,"path":"sprites/IdleCh1/IdleCh1.yy",},
+    {"name":"RunCh1","order":1,"path":"sprites/RunCh1/RunCh1.yy",},
   ],
 }

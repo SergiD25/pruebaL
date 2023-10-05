@@ -26,6 +26,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sonidos","folderPath":"folders/Sonidos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Idle","folderPath":"folders/Sprites/Idle.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Walk","folderPath":"folders/Sprites/Walk.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -35,7 +37,7 @@
   },
   "resources": [
     {"id":{"name":"IdleCh1","path":"sprites/IdleCh1/IdleCh1.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"Run2Ch1","path":"sprites/Run2Ch1/Run2Ch1.yy",},},
     {"id":{"name":"RunCh1","path":"sprites/RunCh1/RunCh1.yy",},},
     {"id":{"name":"Idle2Ch1","path":"sprites/Idle2Ch1/Idle2Ch1.yy",},},
