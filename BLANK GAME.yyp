@@ -34,7 +34,11 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"IdleCh1","path":"sprites/IdleCh1/IdleCh1.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Run2Ch1","path":"sprites/Run2Ch1/Run2Ch1.yy",},},
+    {"id":{"name":"RunCh1","path":"sprites/RunCh1/RunCh1.yy",},},
+    {"id":{"name":"Idle2Ch1","path":"sprites/Idle2Ch1/Idle2Ch1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
