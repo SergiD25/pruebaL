@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Conjuntos de casillas","folderPath":"folders/Conjuntos de casillas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curvas de animación","folderPath":"folders/Curvas de animación.yy",},
@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"mapa","path":"objects/mapa/mapa.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
