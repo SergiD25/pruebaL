@@ -1,5 +1,24 @@
 {
   "FolderOrderSettings": [
+<<<<<<< HEAD
+    {"name":"Conjuntos de casillas","order":1,"path":"folders/Conjuntos de casillas.yy",},
+    {"name":"Curvas de animación","order":11,"path":"folders/Curvas de animación.yy",},
+    {"name":"Extensiones","order":13,"path":"folders/Extensiones.yy",},
+    {"name":"Fuentes","order":6,"path":"folders/Fuentes.yy",},
+    {"name":"Líneas temporales","order":7,"path":"folders/Líneas temporales.yy",},
+    {"name":"Notas","order":12,"path":"folders/Notas.yy",},
+    {"name":"Objetos","order":8,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
+    {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
+    {"name":"Salas","order":9,"path":"folders/Salas.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Secuencias","order":10,"path":"folders/Secuencias.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"mapa","order":1,"path":"objects/mapa/mapa.yy",},
+=======
     {"name":"Conjuntos de casillas","order":2,"path":"folders/Conjuntos de casillas.yy",},
     {"name":"Curvas de animación","order":12,"path":"folders/Curvas de animación.yy",},
     {"name":"Extensiones","order":14,"path":"folders/Extensiones.yy",},
@@ -54,5 +73,6 @@
     {"name":"DieL","order":1,"path":"sprites/DieL/DieL.yy",},
     {"name":"IdleE4R","order":6,"path":"sprites/IdleE4R/IdleE4R.yy",},
     {"name":"DE3L","order":4,"path":"sprites/DE3L/DE3L.yy",},
+>>>>>>> d98feebb5ad113d292300831ed787bbbbeeb3874
   ],
 }

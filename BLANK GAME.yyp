@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Conjuntos de casillas","folderPath":"folders/Conjuntos de casillas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Curvas de animación","folderPath":"folders/Curvas de animación.yy",},
@@ -44,6 +44,10 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+<<<<<<< HEAD
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"mapa","path":"objects/mapa/mapa.yy",},},
+=======
     {"id":{"name":"IdleE1L","path":"sprites/IdleE1L/IdleE1L.yy",},},
     {"id":{"name":"EHIT2R","path":"sprites/EHIT2R/EHIT2R.yy",},},
     {"id":{"name":"DE1L","path":"sprites/DE1L/DE1L.yy",},},
@@ -81,6 +85,7 @@
     {"id":{"name":"IdleE4R","path":"sprites/IdleE4R/IdleE4R.yy",},},
     {"id":{"name":"IdleE1R","path":"sprites/IdleE1R/IdleE1R.yy",},},
     {"id":{"name":"DE3L","path":"sprites/DE3L/DE3L.yy",},},
+>>>>>>> d98feebb5ad113d292300831ed787bbbbeeb3874
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
