@@ -78,6 +78,7 @@
     {"id":{"name":"ME3L","path":"sprites/ME3L/ME3L.yy",},},
     {"id":{"name":"DE1R","path":"sprites/DE1R/DE1R.yy",},},
     {"id":{"name":"DieL","path":"sprites/DieL/DieL.yy",},},
+    {"id":{"name":"IdleE4R","path":"sprites/IdleE4R/IdleE4R.yy",},},
     {"id":{"name":"IdleE1R","path":"sprites/IdleE1R/IdleE1R.yy",},},
     {"id":{"name":"DE3L","path":"sprites/DE3L/DE3L.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
