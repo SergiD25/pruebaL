@@ -27,7 +27,7 @@
   "origin": 0,
   "parent": {
     "name": "Hit",
-    "path": "folders/Sprites/Enemies/Hit.yy",
+    "path": "folders/Sprites/Enemies/Map1/Hit.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

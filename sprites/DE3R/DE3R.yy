@@ -30,7 +30,7 @@
   "origin": 0,
   "parent": {
     "name": "Die",
-    "path": "folders/Sprites/Enemies/Die.yy",
+    "path": "folders/Sprites/Enemies/Map1/Die.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

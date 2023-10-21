@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Hit",
-    "path": "folders/Sprites/Enemies/Hit.yy",
+    "name": "Die",
+    "path": "folders/Sprites/Enemies/Map1/Die.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -28,7 +28,7 @@
   "origin": 0,
   "parent": {
     "name": "Move",
-    "path": "folders/Sprites/Enemies/Move.yy",
+    "path": "folders/Sprites/Enemies/Map1/Move.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

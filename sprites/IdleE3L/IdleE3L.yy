@@ -27,7 +27,7 @@
   "origin": 0,
   "parent": {
     "name": "IdleE",
-    "path": "folders/Sprites/Enemies/IdleE.yy",
+    "path": "folders/Sprites/Enemies/Map1/IdleE.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
